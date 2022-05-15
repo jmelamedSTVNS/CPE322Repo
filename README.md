@@ -12,6 +12,10 @@
 #### Lab 4
 #### Lab 5
 #### Lab 6
+![](assets/Lab6_1.png)
+![](assets/Lab6_2.png)
+![](assets/Lab6_3.png)
+![](assets/Lab6_4.png)
 #### Lab 7
 #### Lab 8
 #### Lab 9
