@@ -38,8 +38,6 @@
 ![](assets/Img18.png)
 ![](assets/Img19.png)
 ![](assets/Img20.png)
-![](assets/Img21.png)
-![](assets/Img22.png)
 ![](assets/Img23.png)
 ![](assets/Img24.png)
 #### Lab 9
